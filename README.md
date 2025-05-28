@@ -1,46 +1,43 @@
-# 👋 Hey, I’m Marek  
-I'm building **[RankHero](https://www.rankhero.com)** — an SEO toolbox that helps Etsy sellers level-up their listings (formerly *EtsyCheck*).  
+# 👋 Hi, I’m Marek&nbsp;<img src="https://raw.githubusercontent.com/MarekDziergas/MarekDziergas/main/wave.gif" width="20" alt="wave"/>
 
-Here are some of the tools RankHero offers:
+I build **[RankHero](https://www.rankhero.com)** – an SEO toolbox that helps Etsy sellers level-up their listings (formerly **EtsyCheck**).
 
----
+<details>
+<summary>What RankHero does</summary>
 
-### Shop Tools
-- **[Shop Analyzer](https://www.rankhero.com/shop-analyzer)**: Evaluates your Etsy shop’s active listings, providing SEO performance metrics and aiming to help you achieve an A+ rating across all listings.
-- **[Buyer Check](https://www.rankhero.com/buyer-check)**: Allows sellers to conduct background checks on customers by viewing reviews left by buyers. Additionally, sellers can leave reviews for buyers, helping to identify and avoid potentially problematic customers.
+| Category          | Highlights |
+| ----------------- | ---------- |
+| **Shop tools**    | Shop Analyzer · Buyer Check |
+| **Listing tools** | Listing Analyzer · Keyword Trend · Compare Listings |
+| **SEO helpers**   | Title, Description & Tag Generators · Rank Check |
+| **Brainstorming** | Niche Finder · Etsy Trends · Etsy Tips |
+| **AI assistant**  | Esther&nbsp;AI – Etsy-trained chat assistant |
 
----
-
-### Listing Tools
-- **[Listing Analyzer](https://www.rankhero.com/listing-analyzer)**: Analyzes individual listings to assess their SEO effectiveness and suggests improvements to enhance visibility.
-- **[Keyword Trend](https://www.rankhero.com/keyword-trend)**: Provides data on average price, view count, and favorite count for the top 100 listings per keyword, along with popular tags, materials, and categories associated with that keyword.
-- **[Compare Listings](https://www.rankhero.com/compare-listings)**: Enables comparison between your listing and a competitor’s by analyzing differences in tags, categories, materials, views per day, favorites per day, and more.
-- **[Profit & Fee Calculator](https://www.rankhero.com/etsy-profit-calculator)**: Calculates potential profits by accounting for Etsy fees, shipping costs, and other expenses, aiding in pricing strategies.
-
----
-
-### SEO Tools
-- **[Title Generator](https://www.rankhero.com/title-generator)**: Generates optimized titles for your listings based on relevant keywords to improve search visibility.
-- **[Description Generator](https://www.rankhero.com/description-generator)**: Creates compelling and SEO-friendly product descriptions to attract potential buyers.
-- **[Tag Generator](https://www.rankhero.com/tag-generator)**: Suggests relevant tags and keywords for your listings, each accompanied by a competition score to help you select effective tags with manageable competition.
-- **[Rank Check](https://www.rankhero.com/rank-check)**: Determines where your listings rank for specific keywords, overcoming the challenge of Etsy’s personalized search results.
+[See the full feature set →](https://www.rankhero.com/tag-generator)
+</details>
 
 ---
 
-### Brainstorming Tools
-- **[Niche Finder](https://www.rankhero.com/niche-finder)**: Helps identify profitable niches by analyzing market trends and demand, guiding you to potential areas of opportunity.
-- **[Etsy Trends](https://www.rankhero.com/etsy-trends)**: Provides insights into current trends on Etsy, assisting in aligning your products with market demand.
-- **[Etsy Tips](https://www.rankhero.com/etsy-tips)**: Offers advice and best practices for succeeding on Etsy, covering various aspects of shop management and optimization.
+## Quick start (API)
+
+    curl https://api.rankhero.com/v1/keyword-trend \
+      -H "Authorization: Bearer YOUR_API_KEY" \
+      -d "keyword=pumpkin candle"
 
 ---
 
-### Esther AI
-- **[Esther AI](https://www.rankhero.com/ai)**: An AI-powered assistant trained specifically on Etsy-related data. Esther can generate SEO-optimized titles and descriptions, suggest product ideas, and even craft content in specific styles, such as Shakespearean prose.
+## About me
+
+* 🏗  Indie hacker & SaaS developer  
+* 🛠  Python · FastAPI · Flask · Tailwind  
+* ⚽️  Plays soccer and trains for triathlons in Chicago
 
 ---
 
-**RankHero** offers a free plan with limited daily searches and access to certain tools.  
-**Premium plans**, starting at **$5.99/month**, provide higher usage limits, access to Esther AI, unlimited use of Niche Finder and Etsy Trends, shop integration for additional insights, early access to new tools, and priority support.
+### Links
 
+[Blog](https://blog.rankhero.com) ・ [TikTok](https://www.tiktok.com/@rankhero.com) ・ [Facebook](https://www.facebook.com/RankHero.official/) ・ [LinkedIn](https://www.linkedin.com/company/rankhero) ・ [Instagram](https://www.instagram.com/rankhero.official)
 
-For more detailed information, you can visit **[RankHero's Blog](https://blog.rankhero.com/)**.
+---
+
+<sub>© 2025 RankHero. MIT-licensed example snippets.</sub>
