@@ -30,7 +30,7 @@ Here are some of the tools RankHero offers:
 ---
 
 ###Brainstorming Tools
-- **[Niche Finder](https://www.rankhero.com/Niche-Finder)****: Helps identify profitable niches by analyzing market trends and demand, guiding you to potential areas of opportunity.
+- **[Niche Finder](https://www.rankhero.com/Niche-Finder)**: Helps identify profitable niches by analyzing market trends and demand, guiding you to potential areas of opportunity.
 - **[Etsy Trends](https://www.rankhero.com/Etsy-Trends)**: Provides insights into current trends on Etsy, assisting in aligning your products with market demand.
 - **[Etsy Tips](https://www.rankhero.com/Etsy-Tips)**: Offers advice and best practices for succeeding on Etsy, covering various aspects of shop management and optimization.
 
