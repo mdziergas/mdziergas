@@ -22,7 +22,7 @@ Here are some of the tools RankHero offers:
 ### SEO Tools
 - **Title Generator**: Generates optimized titles for your listings based on relevant keywords to improve search visibility.  
 - **Description Generator**: Creates compelling and SEO-friendly product descriptions to attract potential buyers.  
-- **Tag Generator**: Suggests relevant tags and keywords for your listings, each accompanied by a competition score to help you select effective tags with manageable competition.  
+- **[Etsy Tag Generator](https://www.rankhero.com/tag-generator)**: Suggests relevant tags and keywords for your listings, each accompanied by a competition score to help you select effective tags with manageable competition.  
 - **Rank Check**: Determines where your listings rank for specific keywords, overcoming the challenge of Etsy’s personalized search results.
 
 ---
