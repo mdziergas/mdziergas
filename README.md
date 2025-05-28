@@ -23,16 +23,16 @@ Here are some of the tools RankHero offers:
 
 ### SEO Tools
 - **[Title Generator](https://www.rankhero.com/title-generator)**: Generates optimized titles for your listings based on relevant keywords to improve search visibility.
-- **[Description Generator](https://www.rankhero.com/Description-Generator)**: Creates compelling and SEO-friendly product descriptions to attract potential buyers.
-- **[Tag Generator](https://www.rankhero.com/Tag-Generator)**: Suggests relevant tags and keywords for your listings, each accompanied by a competition score to help you select effective tags with manageable competition.
-- **[Rank Check](https://www.rankhero.com/Rank-Check)**: Determines where your listings rank for specific keywords, overcoming the challenge of Etsy’s personalized search results.
+- **[Description Generator](https://www.rankhero.com/description-generator)**: Creates compelling and SEO-friendly product descriptions to attract potential buyers.
+- **[Tag Generator](https://www.rankhero.com/tag-generator)**: Suggests relevant tags and keywords for your listings, each accompanied by a competition score to help you select effective tags with manageable competition.
+- **[Rank Check](https://www.rankhero.com/rank-check)**: Determines where your listings rank for specific keywords, overcoming the challenge of Etsy’s personalized search results.
 
 ---
 
 ### Brainstorming Tools
-- **[Niche Finder](https://www.rankhero.com/Niche-Finder)**: Helps identify profitable niches by analyzing market trends and demand, guiding you to potential areas of opportunity.
-- **[Etsy Trends](https://www.rankhero.com/Etsy-Trends)**: Provides insights into current trends on Etsy, assisting in aligning your products with market demand.
-- **[Etsy Tips](https://www.rankhero.com/Etsy-Tips)**: Offers advice and best practices for succeeding on Etsy, covering various aspects of shop management and optimization.
+- **[Niche Finder](https://www.rankhero.com/niche-finder)**: Helps identify profitable niches by analyzing market trends and demand, guiding you to potential areas of opportunity.
+- **[Etsy Trends](https://www.rankhero.com/etsy-trends)**: Provides insights into current trends on Etsy, assisting in aligning your products with market demand.
+- **[Etsy Tips](https://www.rankhero.com/etsy-tips)**: Offers advice and best practices for succeeding on Etsy, covering various aspects of shop management and optimization.
 
 ---
 
