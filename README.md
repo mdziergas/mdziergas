@@ -9,7 +9,7 @@ Here are some of the tools RankHero offers:
 
 ### Shop Tools
 - **[Shop Analyzer](https://www.rankhero.com/shop-analyzer)**: Evaluates your Etsy shop’s active listings, providing SEO performance metrics and aiming to help you achieve an A+ rating across all listings.
-- **[Buyer Check](https://www.rankhero.com/shop-analyzer](https://www.rankhero.com/buyer-check))**: Allows sellers to conduct background checks on customers by viewing reviews left by buyers. Additionally, sellers can leave reviews for buyers, helping to identify and avoid potentially problematic customers.
+- **[Buyer Check](https://www.rankhero.com/buyer-check))**: Allows sellers to conduct background checks on customers by viewing reviews left by buyers. Additionally, sellers can leave reviews for buyers, helping to identify and avoid potentially problematic customers.
 
 ---
 
