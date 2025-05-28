@@ -45,4 +45,4 @@ Here are some of the tools RankHero offers:
 **Premium plans**, starting at **$5.99/month**, provide higher usage limits, access to Esther AI, unlimited use of Niche Finder and Etsy Trends, shop integration for additional insights, early access to new tools, and priority support.
 
 
-For more detailed information, you can visit **[RankHero's Blog](https://www.rankhero.com)**.
+For more detailed information, you can visit **[RankHero's Blog](https://blog.rankhero.com/)**.
