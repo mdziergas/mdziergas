@@ -17,7 +17,7 @@ Here are some of the tools RankHero offers:
 - **[Listing Analyzer](https://www.rankhero.com/listing-analyzer)**: Analyzes individual listings to assess their SEO effectiveness and suggests improvements to enhance visibility.
 - **[Keyword Trend](https://www.rankhero.com/keyword-trend)**: Provides data on average price, view count, and favorite count for the top 100 listings per keyword, along with popular tags, materials, and categories associated with that keyword.
 - **[Compare Listings](https://www.rankhero.com/compare-listings)**: Enables comparison between your listing and a competitor’s by analyzing differences in tags, categories, materials, views per day, favorites per day, and more.
-- **[Profit & Fee Calculator](https://www.rankhero.com/shop-analyzer)**: Calculates potential profits by accounting for Etsy fees, shipping costs, and other expenses, aiding in pricing strategies.
+- **[Profit & Fee Calculator](https://www.rankhero.com/etsy-profit-calculator)**: Calculates potential profits by accounting for Etsy fees, shipping costs, and other expenses, aiding in pricing strategies.
 
 ---
 
